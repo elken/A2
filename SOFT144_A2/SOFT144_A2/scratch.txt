@@ -1,0 +1,6 @@
+﻿public Entity(ContentManager content)
+{
+	//stuff
+}
+
+Entity entity = new Entity(this.Content);
